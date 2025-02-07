@@ -24,7 +24,7 @@ Make sure you **did not do** anything like this
 
 ### Did you know how it ends, right?
 
-<img src="https://github.com/rpo-pay/.github/blob/b5df3442c3932f8185e812e04ff12ca89accd51e/assets/image-6.png" width="400px" />
+<img src="https://github.com/rpo-pay/.github/blob/b5df3442c3932f8185e812e04ff12ca89accd51e/assets/image-6.png?raw=true" width="400px" />
 
 ### You do not need to rush things, make sure everything below was done before continue
 
@@ -41,23 +41,23 @@ Please explain here what you did and why you did it. It is important to justify 
 
 - [ ] Very happy
   
-  <img src="https://github.com/rpo-pay/.github/blob/b5df3442c3932f8185e812e04ff12ca89accd51e/assets/image.png" width="200px" />
+  <img src="https://github.com/rpo-pay/.github/blob/b5df3442c3932f8185e812e04ff12ca89accd51e/assets/image.png?raw=true" width="200px" />
 - [ ] Not that bad
   
-  <img src="https://github.com/rpo-pay/.github/blob/b5df3442c3932f8185e812e04ff12ca89accd51e/assets/image-1.png" width="200px" />
+  <img src="https://github.com/rpo-pay/.github/blob/b5df3442c3932f8185e812e04ff12ca89accd51e/assets/image-1.png?raw=true" width="200px" />
 - [ ] Hopeful
   
-  <img src="https://github.com/rpo-pay/.github/blob/b5df3442c3932f8185e812e04ff12ca89accd51e/assets/image-2.png" width="200px" />
+  <img src="https://github.com/rpo-pay/.github/blob/b5df3442c3932f8185e812e04ff12ca89accd51e/assets/image-2.png?raw=true" width="200px" />
 - [ ] Fuck
   
-  <img src="https://github.com/rpo-pay/.github/blob/b5df3442c3932f8185e812e04ff12ca89accd51e/assets/image-3.png" width="200px" />
+  <img src="https://github.com/rpo-pay/.github/blob/b5df3442c3932f8185e812e04ff12ca89accd51e/assets/image-3.png?raw=true" width="200px" />
 
 - [ ] NOOOooooooooo
 
-  <img src="https://github.com/rpo-pay/.github/blob/b5df3442c3932f8185e812e04ff12ca89accd51e/assets/image-4.png" width="200px" />
+  <img src="https://github.com/rpo-pay/.github/blob/b5df3442c3932f8185e812e04ff12ca89accd51e/assets/image-4.png?raw=true" width="200px" />
 
 ----
 
 YOU WILL NOT BREAK THE PRODUCTION ENVIRONMENT, WOULD YOU?
 
-<img src="https://github.com/rpo-pay/.github/blob/b5df3442c3932f8185e812e04ff12ca89accd51e/assets/image-5.png" width="400px" />
+<img src="https://github.com/rpo-pay/.github/blob/b5df3442c3932f8185e812e04ff12ca89accd51e/assets/image-5.png?raw=true" width="400px" />
