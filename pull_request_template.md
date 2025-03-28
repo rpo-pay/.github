@@ -1,3 +1,7 @@
+# Explanation (what did you do and why?)
+
+[Please explain here what you did and why you did it. It is important to justify your changes and provide some context.]
+
 # Let's categorize your PR
 
 Just mark **ONE**, if you are not sure, split your PR.
@@ -33,9 +37,6 @@ Make sure you **did not do** anything like this
 - [ ] Manual tests, did you test? 
 - [ ] Logging
 
-# Explanation (what did you do and why?)
-
-Please explain here what you did and why you did it. It is important to justify your changes and provide some context.
 
 # How is your confidence about the PR on a Vader scale?
 
